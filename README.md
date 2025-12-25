@@ -76,7 +76,6 @@
   <td align="center">
     <!-- IDEs / Editors -->
     <img src="https://skillicons.dev/icons?i=vscode" height="40" />
-    <img src="https://skillicons.dev/icons?i=webstorm" height="40" />
     <img src="https://skillicons.dev/icons?i=docker" height="40" />
     <img src="https://skillicons.dev/icons?i=bun" height="40" />
     <img src="https://skillicons.dev/icons?i=github" height="40" />
