@@ -1,3 +1,119 @@
+<br />
+
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img
+      src="https://spotify-github-profile.kittinanx.com/api/view?uid=31aqzkvypehw7wkyuapk2hnlae2a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=545454&bar_color_cover=true"
+      width="100"
+      alt="Spotify Profile"
+    />
+  </a>
+</p>
+
+
+<p align="center">
+  <img
+    src="https://spotify-recently-played-readme.vercel.app/api?user=31aqzkvypehw7wkyuapk2hnlae2a"
+    width="200"
+    alt="Spotify Recently Played"
+  />
+</p>
+
+
+<br />
+
+---
+<br />
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<br />
+
+<table align="center">
+  <tr>
+    <th align="left">Frontend</th>
+    <td align="center">
+      <img src="https://www.readmecodegen.com/api/social-icon?name=react&size=40" />
+      <img src="https://www.readmecodegen.com/api/social-icon?name=nextjs&size=40" />
+      <img src="https://www.readmecodegen.com/api/social-icon?name=svelte&size=40" />
+      <img src="https://www.readmecodegen.com/api/social-icon?name=angular&size=40" />
+    </td>
+  </tr>
+
+  <tr>
+    <th align="left">Styling</th>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=tailwind" height="40" />
+      <img src="https://www.readmecodegen.com/api/social-icon?name=sass&size=40" />
+      <img src="https://www.readmecodegen.com/api/social-icon?name=css3&size=40" />
+      <img src="https://www.readmecodegen.com/api/social-icon?name=html5&size=40" />
+    </td>
+  </tr>
+
+  <tr>
+    <th align="left">Backend & Core</th>
+    <td align="center">
+      <img src="https://www.readmecodegen.com/api/social-icon?name=typescript&size=40" />
+      <img src="https://www.readmecodegen.com/api/social-icon?name=express&size=40" />
+      <img src="https://skillicons.dev/icons?i=nodejs" height="40" />
+      <img src="https://skillicons.dev/icons?i=javascript" height="40" />
+    </td>
+  </tr>
+
+  <tr>
+    <th align="left">Languages</th>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java" height="40" />
+      <img src="https://skillicons.dev/icons?i=python" height="40" />
+      <img src="https://skillicons.dev/icons?i=c" height="40" />
+      <img src="https://skillicons.dev/icons?i=cpp" height="40" />
+    </td>
+  </tr>
+
+
+  <tr>
+  <th align="left">Tools & Dev Environment</th>
+  <td align="center">
+    <!-- IDEs / Editors -->
+    <img src="https://skillicons.dev/icons?i=vscode" height="40" />
+    <img src="https://skillicons.dev/icons?i=webstorm" height="40" />
+    <img src="https://skillicons.dev/icons?i=docker" height="40" />
+    <img src="https://skillicons.dev/icons?i=bun" height="40" />
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  <tr>
+    <th align="left">Python Ecosystem</th>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=django" height="40" />
+      <img src="https://skillicons.dev/icons?i=flask" height="40" />
+    </td>
+  </tr>
+  </td>
+</table>
+
+
+<br />
+<br />
+
+---
+
+<br />
+<br />
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
+      src="https://trophies-github.vercel.app/?username=deepabhyudaya&theme=onestar&column=5&margin-w=15&margin-h=15"
+      alt="GitHub Trophies"
+    />
+  </a>
+</p>
+
+<br/>
+
+---
+
+<br/>
+
 ## Followers <kbd>277</kbd>
 
 <table width="100%">
